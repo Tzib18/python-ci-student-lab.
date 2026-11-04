@@ -1,1 +1,3 @@
+pytest
 
+This is the reference repository's dependency list. pip install -r requirements.txt reads it and installs pytest
